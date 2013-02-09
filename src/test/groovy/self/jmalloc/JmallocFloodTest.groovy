@@ -1,6 +1,5 @@
 package self.jmalloc
 
-import org.junit.Test
 import self.jmalloc.objects.AnObject
 
 class JmallocFloodTest extends GroovyTestCase {
